@@ -2,8 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com"
-           review="android-review.googlesource.com" />
+           fetch=".." />
   <remote  name="PureMarshmallow"
            fetch="https://github.com/PureMarshmallow/" />
   <remote  name="cm"
